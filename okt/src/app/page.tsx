@@ -7,7 +7,7 @@ export default function Home() {
   height="100%"
   // style={{ backgroundColor: "#5D5BB9" }}
   className="h-[5000px]   md:h-[3800px] "
-  src="http://localhost:3000/services"
+  src="https://octoreachdigital.com/services"
   title="description"
   scrolling="no"
 />
