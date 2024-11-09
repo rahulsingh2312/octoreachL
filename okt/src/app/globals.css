@@ -24,71 +24,77 @@ body {
 /* Custom height for specific width ranges */
 @media (min-width: 0px) and (max-width: 340px) {
   .iframe-height-335-340 {
-    height: 4000px;
+    height: 3400px;
   }
 }
 
 @media (min-width: 340px) and (max-width: 350px) {
   .iframe-height-340-350 {
-    height: 4100px;
+    height: 3590px;
   }
 }
 
 @media (min-width: 351px) and (max-width: 363px) {
   .iframe-height-351-363 {
-    height: 4200px;
+    height: 3650px;
   }
 }
 @media (min-width: 364px) and (max-width: 375px) {
   .iframe-height-366-372 {
-    height: 4300px;
+    height: 3750px;
   }
 }
 
 @media (min-width: 375px) and (max-width: 385px) {
   .iframe-height-366-372 {
-    height: 4400px;
+    height: 3850px;
   }
 }
 
 @media (min-width: 386px) and (max-width: 396px) {
   .iframe-height-366-372 {
-    height: 4500px;
+    height: 3950px;
   }
 }
 
 @media (min-width: 397px) and (max-width: 403px) {
   .iframe-height-366-372 {
-    height: 4600px;
+    height: 4050px;
   }
 }
 
 @media (min-width: 404px) and (max-width: 414px) {
   .iframe-height-366-372 {
-    height: 4700px;
+    height: 4150px;
   }
 }
 
 @media (min-width: 415px) and (max-width: 424px) {
   .iframe-height-366-372 {
-    height: 4800px;
+    height: 4250px;
   }
 }
 
 @media (min-width: 425px) and (max-width: 435px) {
   .iframe-height-366-372 {
-    height: 4900px;
+    height: 4250px;
   }
 }
 
 @media (min-width: 435px) and (max-width: 445px) {
   .iframe-height-366-372 {
-    height: 5000px;
+    height: 4350px;
   }
 }
-@media (min-width: 446px) {
+@media (min-width: 446px)and (max-width: 451px) {
   .iframe-height-366-372 {
-    height: 5100px;
+    height: 4450px;
+  }
+}
+
+@media (min-width: 451px) {
+  .iframe-height-366-372 {
+    height: 4650px;
   }
 }
 
